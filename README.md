@@ -1,0 +1,1 @@
+This project is written in an assembly language(MIPS), where we apply all our knowledge and experience with low level computing to construct a mini game where we need to clean up to a threshold of tiles with a bot within a certain distance. 
